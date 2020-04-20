@@ -1,4 +1,6 @@
-## Visual Question Answering
+## Visual Question Answering 
+
+(Last updated: 20th April 2020)
 
 ### VQAv2 
 
