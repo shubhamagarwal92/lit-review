@@ -20,7 +20,7 @@
 
 | Model           | Accuracy  |  Paper / Source | Comments | Conference |
 | ------------- | :-----:| --- | ---| --- |
-| LXMERT (Tan et al., 2019) | 60.3 | [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://github.com/airsplay/lxmert) | Published SOTA | EMNLP'19 |
+| LXMERT (Tan et al., 2019) | 60.3 | [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://github.com/airsplay/lxmert) | Published SOTA | [EMNLP'19](https://arxiv.org/abs/1908.07490) |
 | KaKao Brain | 73.24 | [GQA Challenge](https://drive.google.com/file/d/1CtFk0ldbN5w2qhwvfKrNzAFEj-I9Tjgy/view) | Challenge Results |  |
 
 ### TextVQA
@@ -30,7 +30,7 @@
 
 | Model           | Accuracy  |  Paper / Source | Comments | Conference |
 | ------------- | :-----:| --- |---| --- |
-| M4C (Hu et al., 2020) | 40.46 | [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/pdf/1911.06258.pdf) | Baseline by organizers | |
+| M4C (Hu et al., 2020) | 40.46 | [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/pdf/1911.06258.pdf) | [Baseline by organizers](https://github.com/facebookresearch/pythia/tree/project/m4c/projects/M4C_Captioner) | |
 
 
 ### VizWiz dataset
