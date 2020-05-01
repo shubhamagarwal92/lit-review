@@ -57,6 +57,18 @@
 
 - [Paper](https://anandmishra22.github.io/files/mishra-OCR-VQA.pdf)
 
+### ST-VQA (Scene Text Visual Question Answering)
+
+- [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Biten_Scene_Text_Visual_Question_Answering_ICCV_2019_paper.pdf)
+
+### IQA: Visual Question Answering in Interactive Environments
+
+- [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_IQA_Visual_Question_CVPR_2018_paper.pdf)
+
+### RecipeQA
+
+- [Paper](https://arxiv.org/pdf/1809.00812.pdf)
+
 ## VideoQA
 
 ### MSVD-QA and MSRVTT-QA
