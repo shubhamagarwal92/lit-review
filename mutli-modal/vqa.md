@@ -43,6 +43,26 @@
 | BUTD Vizwiz (Gurari et al., 2018) | 46.9 | [VizWiz Grand Challenge: Answering Visual Questions from Blind People](https://arxiv.org/abs/1802.08218) | Published SOTA | CVPR'18 |
 | Pythia | 54.22 | [FB's Pythia repository](https://github.com/facebookresearch/pythia/blob/master/docs/source/tutorials/pretrained_models.md) | Unofficial SOTA |  |
 
+
+### Document VQA 
+
+- [Website](https://rrc.cvc.uab.es/?ch=17&com=contact)
+
+### FigurQA and DVQA
+
+- [DVQA](https://arxiv.org/pdf/1801.08163.pdf) by Adobe Research
+- [FigureQA](https://arxiv.org/pdf/1710.07300.pdf)
+
+### OCR-VQA
+
+- [Paper](https://anandmishra22.github.io/files/mishra-OCR-VQA.pdf)
+
+## VideoQA
+
+### MSVD-QA and MSRVTT-QA
+
+- [Paper](http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf)
+
 ## Other multimodal resources
 
 - [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
