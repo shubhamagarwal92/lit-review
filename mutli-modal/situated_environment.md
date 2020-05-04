@@ -9,3 +9,11 @@ FB's craftassist dataset
 
 [Paper](https://arxiv.org/abs/1907.08584.pdf)
 [Github Repo](https://github.com/facebookresearch/craftassist/)
+
+
+
+3D DeepMind-Lab environment
+
+ICLR'20 
+
+[ENVIRONMENTAL DRIVERS OF SYSTEMATICITY AND GENERALISATION IN A SITUATED AGENT](https://openreview.net/pdf?id=SklGryBtwr)
