@@ -14,6 +14,13 @@ FB's craftassist dataset
 
 3D DeepMind-Lab environment
 
-ICLR'20 
+ICLR'20 [ENVIRONMENTAL DRIVERS OF SYSTEMATICITY AND GENERALISATION IN A SITUATED AGENT](https://openreview.net/pdf?id=SklGryBtwr)
 
-[ENVIRONMENTAL DRIVERS OF SYSTEMATICITY AND GENERALISATION IN A SITUATED AGENT](https://openreview.net/pdf?id=SklGryBtwr)
+[Embodied Question Answering](https://embodiedqa.org/)
+
+
+Room-to-Room (R2R) Navigation
+
+[Natural language interaction with robots](https://bringmeaspoon.org/)
+
+
