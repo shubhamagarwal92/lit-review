@@ -6,3 +6,4 @@ ACL'20
 
 [Code](https://github.com/google-research/bleurt)
 
+[Summary](https://twitter.com/dipanjand/status/1248445801409413122)
