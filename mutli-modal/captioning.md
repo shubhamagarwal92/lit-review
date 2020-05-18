@@ -5,3 +5,14 @@
 2 datasets:
 MSR-Video to Text (MSR-VTT)
 Microsoft Video Description Corpus (MSVD)
+
+
+
+## Image Captioning 
+
+
+-- Evaluation
+
+- [Going Beneath the Surface: Evaluating Image Captioning for Grammaticality, Truthfulness and Diversity](https://arxiv.org/pdf/1912.08960.pdf)
+
+- [Evaluating visually grounded language capabilities using microworlds](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-942.pdf)
