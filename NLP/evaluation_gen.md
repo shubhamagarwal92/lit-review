@@ -8,6 +8,8 @@ ACL'20
 
 [Summary](https://twitter.com/dipanjand/status/1248445801409413122)
 
+[Video summary](https://www.youtube.com/watch?v=rl4nUngiR2k&feature=youtu.be)
+
 
 - USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation
 
